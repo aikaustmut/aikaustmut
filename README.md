@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile :D</h1>
+<h1 align="center">Welcome to my profile :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e477cdelzm5avxyvtwcqdi0zba3nrz533i5b2ynelnh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -10,6 +10,10 @@
 <br/>🤝 I am looking for help with **front-end development**.
 <br/>💬 Feel free to ask me anything—you are always welcome!
 <br/>⚡ Fun fact: I love unique and interesting things that spark creativity.
+
+<a href="https://twitter.com/Rajesh_Osi" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/100/000000/twitter.png" alt="rajesh_Osi" height="36" width="36" /></a>
+<a href="https://www.instagram.com/oestmoet" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/instagram.svg" alt="rajesh.codes_" height="30" width="30" /></a></br>
+<a href="https://www.linkedin.com/in/rajeshpaswan" target="blank"><img align="center" src="https://img.icons8.com/android/24/000000/linkedin.png" alt="Rajesh Paswan" height="30" width="30" /></a>
 
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
