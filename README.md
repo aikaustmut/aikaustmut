@@ -14,42 +14,39 @@
 ## 🌐 Socials Media:
 <a href="https://www.instagram.com/oestmoet" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/instagram.svg" alt="rajesh.codes_" height="70" width="70" /></a>
 <a href="https://www.linkedin.com/in/aika-ustmut-679015287/" target="blank"><img align="center" src="https://img.icons8.com/android/24/000000/linkedin.png" alt="Rajesh Paswan" height="70" width="70" /></a>
+ 
+![Funny Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
 
-<!-- Socials with Links -->
-<!-- Gifs found on GIPHY made by @devrock -->
-[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](aikaustmut21@gmail.com)
-[<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/patrickguo/)
-[<img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">](https://www.datacamp.com/profile/shpatrickguo)
-[<img src="img/tableau.png" width="100" title="tableau">](https://public.tableau.com/app/profile/patrick.guo)
-[<img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">](https://www.hackerrank.com/guopatrick)
-[<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="200" title="kaggle">](https://www.kaggle.com/shpatrickguo)
+---
 
-<p align="left">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100px" title="django">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100px" title="postgresql">
-</p>
-<!-- Other Tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" title="java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="50px" title="bootstrap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px" title="r">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb">
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
--->
-<p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
-</p>
+### ✨ Tech Stack:
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat) 
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+- **Fields of Interest:**  
+  ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-008080?style=flat&logo=hackthebox&logoColor=white) 
+  ![AI in Healthcare](https://img.shields.io/badge/-AI%20in%20Healthcare-ff6f61?style=flat&logo=artificial-intelligence&logoColor=white)
+
+---
+
+### 😄 Fun Vibes:
+![Cat Typing GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
+When coding gets intense, just keep typing like this cat! 🐱⌨️  
+
+---
+
+### 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
